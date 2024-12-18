@@ -1,0 +1,30 @@
+---
+title: "Sebastián Blandón Londoño"
+image: avatar.jpeg
+about:
+  template: trestles
+  links:
+    - text: LinkedIn
+      url: "https://www.linkedin.com/in/sebastian-blandon/"
+    - text: GitHub
+      icon: github
+      url: "https://github.com/sebastian-blandon"
+    - text: Email
+      url: "mailto:s.blandon@utp.edu.co"
+    - text: CV
+      url: "cv.pdf"
+comments: false
+---
+::: {.column-page}
+
+## Bio
+
+¡Hola! Soy ingeniero industrial apasionado por la tecnología, el análisis de datos y la resolución de problemas complejos. Me gusta la optimización de procesos y hacer que las ideas cobren vida a través de soluciones prácticas. Tengo experiencia en herramientas digitales, optimización y desarrollo, disfruto explorar nuevos retos y compartir conocimientos. Cuando no estoy frente al pc, puedes encontrarme disfrutando de la naturaleza o aprendiendo algo nuevo. También soy estudiante de la Maestría en Investigación Operativa y Estadística de la Universidad Tecnológica de Pereira 👨‍💻 🚀
+
+En este sitio puedes encontrar mis [recursos de clases](papers), mi  [CV](cv.pdf), y [horarios de asesoría](blog.html).
+
+<p></p>
+
+<!-- Google Calendar Appointment Scheduling begin -->
+<iframe src="https://calendar.google.com/calendar/appointments/schedules/AcZssZ05GCL3Kt1OxM7ntseYftln6NdQzvnsvZZqmKB7C5wSA27Gy__P_lLL767D9U4-DnIwyEMRYRyi?gv=true" style="border: 0" width="100%" height="600" frameborder="0"></iframe>
+<!-- end Google Calendar Appointment Scheduling -->

@@ -1,0 +1,34 @@
+project:
+  type: website
+  resources:
+    - keybase.txt
+    - resume.pdf
+    - cv.pdf
+
+website:
+  title: "Sebastián Blandón Londoño"
+  site-url: https://mm218.dev
+  description: ""
+  open-graph:
+    locale: es_CO
+  twitter-card:
+    creator: "@MikeMahoney218"
+  comments:
+    utterances:
+      repo: mikemahoney218/mm218.dev
+  navbar:
+    right:
+      - text: "Home"
+        href: index.html
+      - text: "Clases"
+        href: papers
+      - text: "Asesorías"
+        href: papers
+
+
+  page-footer:
+    left: "© Copyright 2024 Mike Mahoney. Except where otherwise noted, all text and images licensed CC-BY-NC 4.0."
+format:
+  html:
+    theme: [sandstone, _variables.scss]
+    css: styles.css
